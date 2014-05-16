@@ -1,4 +1,4 @@
 AndroidProjekt
 ==============
 
-tema đidaris
+team đidaris
