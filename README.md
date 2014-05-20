@@ -12,5 +12,5 @@ ukratko, fali nam jos
   cottonpick... mislim numberPicker, dodao sam ga u projekt, treba ga povezati s ulaznim stringom
   
   parsiranje izlaznog xml-a koji dobimo iz wolframalpha
-  - prikaz parsiranog koda kao html
+  - prikaz parsiranog koda kao html // može a i ne mora bit - možemo rez prikazati u fancy - schmancy labeli ilištogodveć
   
