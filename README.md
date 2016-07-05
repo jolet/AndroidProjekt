@@ -17,4 +17,4 @@ Original team draft/storming (in HR lang)
   - numberPicker, dodao sam ga u projekt, treba ga povezati s ulaznim stringom
   - parsiranje izlaznog xml-a koji dobimo iz wolframalpha
   - prikaz parsiranog koda kao html // može a i ne mora bit - možemo rez prikazati u fancy - schmancy labeli ilištogodveć
-  
+   
